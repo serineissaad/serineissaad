@@ -4,13 +4,13 @@
 
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/HX2DFcA8wH4AAAAM/glasses-push.gif">
 
-- 🔭 On going projects: **Training an AI to play Snake**
+- Ongoing projects: **Training an AI to play Snake**
 
-- 🌱 Currently learning **Deep Learning**
+- Currently learning **Deep Learning**
 
 - 📫 Reach me at **syrineissaad1@gmail.com**
 
-- ⚡ Fun fact: Actually I don't wear glasses
+- (〜￣▽￣)〜 Actually I don't wear glasses
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
