@@ -8,7 +8,7 @@
 
 - Currently learning **Deep Learning**
 
-- 📫 Reach me at **syrineissaad1@gmail.com**
+- 📫 Reach me at **syrineissaad0@gmail.com**
 
 - (〜￣▽￣)〜 Actually I don't wear glasses
 
